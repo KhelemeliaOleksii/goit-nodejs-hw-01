@@ -6,9 +6,7 @@
 
 1. Command:  
     node --act list
-
-![link](https://monosnap.com/file/7MiJEZqB89V2hxl25fZj2tvx5CrDcV)
- 
+![link](https://monosnap.com/image/7MiJEZqB89V2hxl25fZj2tvx5CrDcV) 
 
 ### What we do: Work with json files
 

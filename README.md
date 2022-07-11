@@ -4,9 +4,22 @@
 
 ### What we get: 
 
-1. Command:  
-    node --act list
+1. `node index -act list`  
+
 ![link](https://monosnap.com/image/7MiJEZqB89V2hxl25fZj2tvx5CrDcV) 
+
+2. `node index -act get -i 10`
+
+![link](https://monosnap.com/image/BIGoztmrwEBIRhogOqe68KgE23tZTt)
+
+3. `node index -act add -n developer -e dev@mail.com -p \(012\)345-6789 `
+
+![link](https://monosnap.com/image/Abv51lsmcUdx1uqBK112ciCt7xUyCn)
+
+4. `node index -act remove -i 3`
+
+![link](https://monosnap.com/image/AzqlccCDcWE5wLHegPTmACsM9isAg0)
+
 
 ### What we do: Work with json files
 
